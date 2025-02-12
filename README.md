@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project was conducted as part of the BA305 course to develop a predictive model for **customer churn** in the telecom industry. 
+This project was conducted to develop a predictive model for **customer churn** in the telecom industry. 
 
 By analyzing customer behavior, we aimed to identify at-risk customers and provide actionable insights to improve customer retention strategies.
 
